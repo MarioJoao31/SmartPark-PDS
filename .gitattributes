@@ -1,0 +1,3 @@
+*.angular linguist-detectable=true
+*.typescript linguist-detectable=true
+*.nestjs linguist-detectable=true
